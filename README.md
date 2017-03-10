@@ -1,6 +1,6 @@
 # RemoveExclamation
 
-**TODO: Add description**
+**Remove Exclamation from string with recursion**
 
 ## Installation
 
@@ -16,4 +16,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/remove_exclamation](https://hexdocs.pm/remove_exclamation).
-
